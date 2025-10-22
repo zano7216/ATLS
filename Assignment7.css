@@ -1,8 +1,8 @@
-header {background-color: rgb(209, 209, 190);}
-
 h1, h2 {color: rgb(255, 0, 0);}
 
-p{color: rgb(0, 0, 0);}
+p{color: white;}
+
+p1{color: white;}
 
 ul{border: 2px solid rgb(255, 0, 0);}
 
@@ -10,6 +10,13 @@ ol{border: 2px solid rgb(255, 0, 0);}
 
 ol, ul {padding: 5px 20px; border-radius: 4px;}
 
+li{color: red;}
+
 h1, strong{color: rgb(255, 0, 0) }
 
-em{color: grey;}
+em{color: rgb(255, 0, 0);}
+
+body {
+    background-color: rgb(79, 79, 79);
+    padding: 20px;
+}

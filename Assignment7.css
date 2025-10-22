@@ -1,13 +1,15 @@
-h1, h2 {color: green;}
+header {background-color: beige;}
 
-p{color: grey;}
+h1, h2 {color: rgb(255, 0, 0);}
 
-ul{border: 2px solid orange;}
+p{color: rgb(0, 0, 0);}
 
-ol{border: 2px solid purple;}
+ul{border: 2px solid rgb(255, 0, 0);}
+
+ol{border: 2px solid rgb(255, 0, 0);}
 
 ol, ul {padding: 5px 20px; border-radius: 4px;}
 
-h1, strong{color: purple }
+h1, strong{color: rgb(255, 0, 0) }
 
 em{color: grey;}

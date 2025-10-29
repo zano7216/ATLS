@@ -88,14 +88,14 @@ article,
 aside,
 footer,
 section {
+  margin: 10px;
   background-color: #F4E7CD;
   padding: 1%;
 }
 
-
-
-h1 {
+h1,h2,h3,h4 {
   flex: 5;
+  text-align:center;
   text-transform: uppercase;
 }
 

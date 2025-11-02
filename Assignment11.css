@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+select:focus, select:active, input:focus, input:active, input:focus + label,
+input:active + label, label[for]:focus, label[for]:active {
+color: #FFF !important;
+background-color: #BB3D2F !important;}
+
+#formcol1 input.reqfield {
+background:#FF9;
+}
+/* form styling */
+
+label{
+	margin-right:.3em;
+	width:5em;
+	display: inline-block;
+	text-align:right;
+	
+}
+
+#formcol1 li{
+	list-style:none;
+}
+
+#wrapper {
+	width: 60%;
+	margin-left:4%;
+}
+
+div#formcol1 {
+	float:left;	
+	width: 100%;
+}
+
+div#multchoice{
+	float: left;
+	width:100%;
+}
+
+body {
+  background-color: #fffaef;
+}
+
+/* end of form css */
+	
